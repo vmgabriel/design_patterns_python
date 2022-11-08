@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "factory_method",
+            "type": "python",
+            "environment": {
+                "PYTHONUNBUFFERED": "1",
+            },
+            "file": "$PROJECT_DIR$/creationals/factory_method.py",
+            "arguments": [],
+        },
+        {
+            "name": "abstract_factory",
+            "type": "python",
+            "environment": {
+                "PYTHONUNBUFFERED": "1",
+            },
+            "file": "$PROJECT_DIR$/creationals/abstract_factory.py",
+            "arguments": [],
+        },
+        {
+            "name": "builder",
+            "type": "python",
+            "environment": {
+                "PYTHONUNBUFFERED": "1",
+            },
+            "file": "$PROJECT_DIR$/creationals/builder.py",
+            "arguments": [],
+        },
+    ],
+}
